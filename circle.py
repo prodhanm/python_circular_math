@@ -1,2 +1,3 @@
 class Circle:
-    pass
+    def __init__(self, radius):
+        self.radius = radius
